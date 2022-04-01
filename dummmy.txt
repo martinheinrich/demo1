@@ -1,4 +1,4 @@
-ich bin ein feature conflict
+ich bin ein feature conflict der gelöst wurde
 hallo welt
 hallo welt
 hallo welt
